@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ranjith.springboot</groupId>
-    <artifactId>poc</artifactId>
+    <artifactId>SpringBootPocApplication</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>poc</name>
     <description>POC project using Spring Boot</description>
